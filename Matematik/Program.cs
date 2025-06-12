@@ -15,6 +15,14 @@ namespace Matematik
 
             dortIslem.Topla(7, 9);
 
+
+
+
+
+
+
+
+
         }
     }
 }
